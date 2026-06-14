@@ -1,4 +1,4 @@
-<h1 align="center">Abhijeet</h1>
+<h1 align="center">Abhijeet Rao</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;Building+Scalable+Systems;Always+Learning..." />
