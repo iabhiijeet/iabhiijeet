@@ -26,7 +26,7 @@ I work across the stack — from designing APIs and databases to building **LLM 
 
 Currently exploring **Generative AI, RAG, LangChain, LangGraph, AI Agents, Memory, Embeddings, Vector Search and LLM orchestration**.
 
-> **Build. Break. Understand. Improve. Repeat.**
+> **Build. Break. Understand. Improve. Repeat. **
 
 ---
 
