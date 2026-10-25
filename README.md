@@ -1,7 +1,7 @@
 # <p align="">Abhijeet Rao</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;AI+%26+Generative+AI+Developer;Building+Scalable+Systems;Exploring+RAG%2C+Agents+%26+LLMs" />
+  
 </p>
 
 <p align="center">
