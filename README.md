@@ -58,9 +58,6 @@ Currently exploring **Generative AI, RAG, LangChain, LangGraph, AI Agents, Memor
 ### 🌱 CarbonSync
 
 A SaaS platform designed to automate **carbon emissions accounting** for organizations across Scope 1, Scope 2 and Scope 3.
-
-**Focus:** SaaS · Backend APIs · Data Processing · AI · ESG
-
 ---
 
 ### ⚡ Self-Consistency GenAI
