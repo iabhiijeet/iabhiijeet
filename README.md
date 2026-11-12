@@ -22,7 +22,7 @@
 
 I'm a **Full Stack Developer with a strong backend focus**, interested in building scalable applications and intelligent AI-powered systems.
 
-I work across the stack — from designing APIs and databases to building **LLM applications, RAG pipelines, AI agents and agentic workflows**.
+I work across the different platforms — from designing APIs and databases to building **LLM applications, RAG pipelines, AI agents and agentic workflows**.
 
 Currently exploring **Generative AI, RAG, LangChain, LangGraph, AI Agents, Memory, Embeddings, Vector Search and LLM orchestration**.
 
